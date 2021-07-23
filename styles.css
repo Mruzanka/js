@@ -1,0 +1,63 @@
+h2{color: rgb(21, 120, 185);;
+text-align: center;}
+
+    div.box{
+    display: inline-flex;
+    flex-direction: row;
+  margin-left: 400px;
+  justify-content:space-between}
+
+
+div.lastname{
+    position:absolute;
+    margin-left:300px;
+} 
+
+div.email{
+    position: absolute;
+    margin-top:130px;
+
+}
+
+div.phone{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 130px;
+}
+div.company{
+    position: absolute;
+    margin-top:250px;
+
+}
+
+input{height: 25px;
+
+}
+div.company input{
+    width: 500px;
+    height: 25px;
+}
+div.how{
+    position: absolute;
+    margin-top: 350px;
+}
+div.comments{
+    position: absolute;
+    margin-top:450px;
+
+}
+div.comments input{
+    width: 500px;
+    height: 60px;
+}
+
+div.submit{position: absolute;
+    
+
+}
+div.submit button{ background-color: rgb(39, 137, 202);
+color: white;
+margin-top: 570px;
+    width: 200px;
+    height: 30px;
+}
